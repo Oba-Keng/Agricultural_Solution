@@ -1,2 +1,0 @@
-def agricultural():
-    print("Success")

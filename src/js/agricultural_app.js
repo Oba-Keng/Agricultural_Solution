@@ -1,0 +1,10 @@
+class agricultural{
+    constructor(){
+        
+    }
+
+    viewBlogs(){
+
+    }
+
+}
